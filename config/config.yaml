@@ -75,8 +75,6 @@ platforms:
       name: "少数派"
     - id: "producthunt"
       name: "ProductHunt"
-    - id: "_36kr"
-      name: "36氪"
     - id: "zhihu"
       name: "知乎"
 
